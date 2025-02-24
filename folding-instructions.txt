@@ -1,3 +1,7 @@
 1. Fold paper in half.
+<<<<<<< HEAD
 2. Fold front corners at a 60-degree angle inwards to the middle of the plane.
+=======
+2. Fold sides down and out 1/2 inch from the center along the central axis.
+>>>>>>> option-2
 
